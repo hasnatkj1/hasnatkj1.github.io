@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Soal Domain Server</title>
+</head>
+<body>
+    <h1>SOAL DOMAIN SERVER</h1>
+    <div class="container">
+    <ol>
+        <li>
+            <p>Jenis-jenis sistem operasi jaringan yang dapat digunakan sebagai server dalam jaringan adalah sebagai berikut, kecuali</p>
+            <input type="radio" name="question1" value="a"> a. Windows NT<br>
+            <input type="radio" name="question1" value="b"> <b>b. Redhat</b><br>
+            <input type="radio" name="question1" value="c"> c. Debian<br>
+            <input type="radio" name="question1" value="d"> d. Star Bugs<br>
+            <input type="radio" name="question1" value="e"> e. San Solaris<br>
+        </li>
+        <!-- Soal 2 -->
+        <li>
+            <p>Komputer yang bertugas menyimpan Informasi halaman web yang pernah diakses sebelumnya adalah.....</p>
+            <input type="radio" name="question2" value="a"> a. Router<br>
+            <input type="radio" name="question2" value="b"> b. Web server<br>
+            <input type="radio" name="question2" value="c"> <b>c. Proxy server</b><br>
+            <input type="radio" name="question2" value="d"> d. Name server<br>
+            <input type="radio" name="question2" value="e"> e. Database server<br>
+        </li>
+        <!-- Soal 3 -->
+        <li>
+            <p>Protokol TCP/IP berhubungan dengan pengguna aplikasi yang berguna untuk terminal maya jarak jauh.....</p>
+            <input type="radio" name="question3" value="a"> a. HTTP<br>
+            <input type="radio" name="question3" value="b"> <b>b. FTP</b><br>
+            <input type="radio" name="question3" value="c"> c. SMTP<br>
+            <input type="radio" name="question3" value="d"> d. TELNET<br>
+            <input type="radio" name="question3" value="e"> e. UDP<br>
+        </li>
+        <!-- Soal 4 -->
+        <li>
+            <p>Perintah untuk mendapatkan no.IP secara otomatis dari DHCP server adalah</p>
+            <input type="radio" name="question4" value="a"> a. Ipconfig<br>
+            <input type="radio" name="question4" value="b"> b. Ipconfig /all<br>
+            <input type="radio" name="question4" value="c"> c. <b>Ipconfig/renew</b><br>
+            <input type="radio" name="question4" value="d"> d. Ipconfig /release<br>
+            <input type="radio" name="question4" value="e"> e. Ipconfig /flushdns<br>
+        </li>
+        <!-- Soal 5 -->
+        <li>
+            <p>DHCP server</p>
+            <input type="radio" name="question5" value="a"> a. DHCP server<br>
+            <input type="radio" name="question5" value="b"> b. NTFS server<br>
+            <input type="radio" name="question5" value="c"> <b>c. FTP server</b><br>
+            <input type="radio" name="question5" value="d"> d. DNS server<br>
+            <input type="radio" name="question5" value="e"> e. WEB server<br>
+        </li>
+        <!-- Soal 6 -->
+        <li>
+            <p>Guna mengakses web server dibutuhkan program berikut ini adalah</p>
+            <input type="radio" name="question6" value="a"> a. Mozilla atau Opera<br>
+            <input type="radio" name="question6" value="b"> b. Friendster atau Bloggr<br>
+            <input type="radio" name="question6" value="c"> c. MySQL atau Outlook<br>
+            <input type="radio" name="question6" value="d"> d. Squid atau Samba<br>
+            <input type="radio" name="question6" value="e"> <b>e. Apache atau IIS</b><br>
+        </li>
+        <!-- Soal 7 -->
+        <li>
+            <p>Layanan pada server yang memungkinkan para klien melakukan pengiriman surat menyurat elektronik secara local maupun via internet disebut......</p>
+            <input type="radio" name="question7" value="a"> a. Mail Client<br>
+            <input type="radio" name="question7" value="b"> b. Web Server<br>
+            <input type="radio" name="question7" value="c"> c. FTP Server<br>
+            <input type="radio" name="question7" value="d"> d. Web Mail<br>
+            <input type="radio" name="question7" value="e"> <b>e. Mail Server</b><br>
+        </li>
+        <!-- Soal 8 -->
+        <li>
+            <p>Ciri-ciri suatu Workgroup model adalah</p>
+            <input type="radio" name="question8" value="a"> <b>a. Authentication Server</b><br>
+            <input type="radio" name="question8" value="b"> b. tidak ada Authentication Server<br>
+            <input type="radio" name="question8" value="c"> c. sama dengan Server Based model<br>
+            <input type="radio" name="question8" value="d"> d. tidak bisa diakses dari luar jaringan<br>
+            <input type="radio" name="question8" value="e"> e. Enkripsi umum<br>
+        </li>
+        <!-- Soal 9 -->
+        <li>
+            <p>Ada dua jenis routing, yaitu</p>
+            <input type="radio" name="question9" value="a"> a. routing langsung dan tidak langsung<br>
+            <input type="radio" name="question9" value="b"> b. routing cepat dan lambat<br>
+            <input type="radio" name="question9" value="c"> c. routing searah dan multi arah<br>
+            <input type="radio" name="question9" value="d"> d. routing sekelas dan tidak sekelas<br>
+            <input type="radio" name="question9" value="e"> <b>e. routing naik dan turun</b><br>
+        </li>
+        <!-- Soal 10 -->
+<li>
+    <p>Ada dua jenis routing, yaitu</p>
+    <input type="radio" name="question10" value="a"> a. routing langsung dan tidak langsung<br>
+    <input type="radio" name="question10" value="b"> b. routing cepat dan lambat<br>
+    <input type="radio" name="question10" value="c"> c. routing searah dan multi arah<br>
+    <input type="radio" name="question10" value="d"> <b>d. routing sekelas dan tidak sekelas</b><br>
+    <input type="radio" name="question10" value="e"> e. routing naik dan turun<br>
+</li>
+      <!-- Soal 11 -->
+<li>
+    <p>Setelah selesai melakukan konfigurasi pada nama network interface, dilanjutkan dengan menyimpan data pada editor Nano dengan cara menekan tombol kombinasi pada keyboard....</p>
+    <input type="radio" name="question11" value="a"> <b>a. CTRL+O</b><br>
+    <input type="radio" name="question11" value="b"> b. CTRL+S<br>
+    <input type="radio" name="question11" value="c"> c. CTRL+P<br>
+    <input type="radio" name="question11" value="d"> d. CTRL+X<br>
+    <input type="radio" name="question11" value="e"> e. CTRL+W<br>
+</li>
+<!-- Soal 12 -->
+<li>
+    <p>Langkah selanjutnya untuk keluar dari editor Nano adalah dengan cara menekan tombol kombinasi pada keyboard....</p>
+    <input type="radio" name="question12" value="a"> a. CTRL + O<br>
+    <input type="radio" name="question12" value="b"> b. CTRL+S<br>
+    <input type="radio" name="question12" value="c"> c. CTRL+P<br>
+    <input type="radio" name="question12" value="d"> d. CTRL + X<br>
+    <input type="radio" name="question12" value="e"> <b>e. CTRL + W</b><br>
+</li>
+<!-- Soal 13 -->
+<li>
+    <p>Guna mengecek konfigurasi network interfaces tersebut berjalan atau tidak dengan mengetikkan perintah....</p>
+    <input type="radio" name="question13" value="a"> a. Cursor<br>
+    <input type="radio" name="question13" value="b"> <b>b. Format</b><br>
+    <input type="radio" name="question13" value="c"> c. Ifconfig<br>
+    <input type="radio" name="question13" value="d"> d. Delete<br>
+    <input type="radio" name="question13" value="e"> e. Ipconfig<br>
+</li>
+<!-- Soal 14 -->
+<li>
+    <p>Paket DNS Server yang paling terkenal dan paling umum digunakan saat ini adalah</p>
+    <input type="radio" name="question14" value="a"> a. birdX<br>
+    <input type="radio" name="question14" value="b"> b. ISO<br>
+    <input type="radio" name="question14" value="c"> c. Bind9<br>
+    <input type="radio" name="question14" value="d"> <b>d. Binary-1</b><br>
+    <input type="radio" name="question14" value="e"> e. Bind10<br>
+</li>
+<!-- Soal 15 -->
+<li>
+    <p>Konfigurasi yang akan dalam memetakan atau menerjemahkan IP Address ke dalam alamat domain adalah file.....</p>
+    <input type="radio" name="question15" value="a"> a. reverse<br>
+    <input type="radio" name="question15" value="b"> b. forward<br>
+    <input type="radio" name="question15" value="c"> <b>c. backyard</b><br>
+    <input type="radio" name="question15" value="d"> d. follower<br>
+    <input type="radio" name="question15" value="e"> e. repository<br>
+</li>
+<!-- Soal 16 -->
+<li>
+    <p>Windows Server 2008 mendukung sistem klien dengan....</p>
+    <input type="radio" name="question16" value="a"> a. Linux<br>
+    <input type="radio" name="question16" value="b"> b. Windows Xp<br>
+    <input type="radio" name="question16" value="c"> c. Sistem Operasi Jaringan<br>
+    <input type="radio" name="question16" value="d"> <b>d. Jaringan Dunia</b><br>
+    <input type="radio" name="question16" value="e"> e. Windows Vista<br>
+</li>
+<!-- Soal 17 -->
+<li>
+    <p>Keunggulan DNS server adalah....</p>
+    <input type="radio" name="question17" value="a"> a. DNS mudah untuk dilmplementasikan di Protocol TCP/IP<br>
+    <input type="radio" name="question17" value="b"> b. DNS tidak mudah di instal<br>
+    <input type="radio" name="question17" value="c"> c. DNS mudah untuk dioperasikan pada linux atau windows<br>
+    <input type="radio" name="question17" value="d"> <b>d. DNS server tidak dapat ditembus oleh beberapa virus</b><br>
+    <input type="radio" name="question17" value="e"> e. DNS Server mudah untuk Dikonfigurasikan (Bagi Admin)<br>
+</li>
+<!-- Soal 18 -->
+<li>
+    <p>Suatu protocol yang berfungsi untuk tukar-menukar file dalam suatu network yang menggunakan TCP adalah....</p>
+    <input type="radio" name="question18" value="a"> a. Domain Name System<br>
+    <input type="radio" name="question18" value="b"> <b>b. File Transfer Protocol</b><br>
+    <input type="radio" name="question18" value="c"> c. Hyper Text Transfer Protocol<br>
+    <input type="radio" name="question18" value="d"> d. Transmission Control Protocol<br>
+    <input type="radio" name="question18" value="e"> e. General Public Control Protocol<br>
+</li>
+<!-- Soal 19 -->
+<li>
+    <p>Setiap komputer yang terhubung ke jaringan dapat bertindak baik sebagal workstation maupun server disebut jaringan</p>
+    <input type="radio" name="question19" value="a"> a. Client and server<br>
+    <input type="radio" name="question19" value="b"> b. Tree<br>
+    <input type="radio" name="question19" value="c"> c. Peer to peer<br>
+    <input type="radio" name="question19" value="d"> d. Local Area Network<br>
+    <input type="radio" name="question19" value="e"> <b>e. Bus</b><br>
+</li>
+<!-- Soal 20 -->
+<li>
+    <p>Domain Name System (DNS) adalah suatu sistem yang memungkinkan nama suatu host pada jaringan komputer atau internet ditranslasikan menjadi....</p>
+    <input type="radio" name="question20" value="a"> a. IP Address<br>
+    <input type="radio" name="question20" value="b"> b. home ID<br>
+    <input type="radio" name="question20" value="c"> c. host ID<br>
+    <input type="radio" name="question20" value="d"> d. broadcast address<br>
+    <input type="radio" name="question20" value="e"> <b>e. Protocol</b><br>
+</li>
+      </ol>
+    </div>
+</form>
+</body>
+</html>
